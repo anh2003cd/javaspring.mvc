@@ -37,4 +37,8 @@ public class UserService {
         return this.userRepository.findByEmailAndAddress(email, address);
     }
 
+    public User getUserById(long id) {
+        return this.userRepository.findById(id);
+    }
+
 }

@@ -18,33 +18,9 @@
 
         <body>
 
-            <h2 style="text-align: center"> Create a user</h2>
-
-            <form style="text-align: center;">
-                <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                </div>
-                <div class="mb-3">
-                    <label for="exampleInputPassword1" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="exampleInputPassword1">
-                </div>
-                <div class="mb-3">
-                    <label for="phone_number" class="form-label">phone_number</label>
-                    <input type="text" class="form-control" id="phone_number">
-                </div>
-                <div class="mb-3">
-                    <label for="Full_name" class="form-label">Full_name</label>
-                    <input type="password" class="form-control" id="Full_name">
-                </div>
-                <div class="Address">
-                    <label for="Address" class="form-label">Address</label>
-                    <input type="password" class="form-control" id="Address">
-                </div>
-
-
-                <button type="submit" class="btn btn-primary">Submit</button>
-            </form>
+            <h4>
+                Create user success
+            </h4>
         </body>
 
         </html>
